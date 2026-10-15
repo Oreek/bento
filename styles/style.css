@@ -1,0 +1,119 @@
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    display: flex;
+    border: 1px solid burlywood;
+    padding: 0;
+    background-color: #788417;
+    justify-content: center;
+}
+
+.navbar ul li a {
+    display: block;
+    text-decoration: none;
+    padding: 14px 16px;
+    color: #f6f1b6;
+}
+
+.navbar ul li a:hover {
+    color: #aab026;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    word-wrap: break-word;
+    font: 100%/1.5 sans-serif;
+    background-color: #f6f1b6;
+}
+
+h1, h2, h3, h4 {
+  margin: 2.5rem 0 1.5rem 0;
+  line-height: 1.25;
+}
+
+p {
+    margin: 1em 0;
+    line-height: 1.5;
+}
+
+a {
+    color: rebeccapurple;
+    text-decoration: none;
+}
+a:hover, a:focus, a:active {
+    text-decoration: none;
+}
+
+ol, ul {
+    margin: 1em;
+    list-style: none;
+    display: flex;
+}
+
+li {
+    padding: 20px;
+}
+
+.welcome-categories li a {
+    background-color: #eea64b;
+    padding: 10px;
+    color: #f6f1b6;
+    border-radius: 2px;
+}
+.welcome-categories li a:hover {
+    padding: 15px;
+}
+
+ol li ol, ol li ul, ul li ol, ul li ul {
+    margin: 0 2em;
+}
+ol li p, ul li p {
+    margin: 0;
+}
+
+.header {
+    font-size: 2.5em;
+    margin: 1px;
+}
+
+.content {
+    font-size: 1.5rem;
+    margin: 5px;
+}
+
+.welcome-text {
+    background-color: #aab026;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    color: #f6f1b6;
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid #cccccc;
+    width: 20%;
+    margin: 2rem auto;
+}
+
+.welcome-categories {
+    background-color: #fdcb7b;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.honorable-mention {
+    color: #d9641f;
+    margin: 1rem;
+}
+
+.honorable-mention a {
+    color: #aab026;
+}
+
+.honorable-mention a:hover {
+    color: #788417;
+}
+
