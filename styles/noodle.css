@@ -1,0 +1,142 @@
+.header {
+    place-items: center;
+    display: grid;
+    color: #aab026;
+}
+
+.instant-noodle {
+    background-color: #d9641f;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    color: #f6f1b6;
+}
+
+.instant-noodle p {
+    font-size: 1.5rem;
+    margin: 10px;
+    padding: 10px;
+}
+
+h3 {
+    font-size: 2rem;
+    color: brown;
+}
+
+.tier  {
+    margin: 10px;
+    padding: 10px 18px;
+    border-radius: 20px;
+    color: #f6f1b6;
+    background-color: #aab026;
+}
+
+.maggi {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    color: red;
+    background-color: yellow;
+}
+
+.indomie {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    color: #f6f1b6;
+    background-color:lightsalmon;
+}
+
+.seven-eleven {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    color: orange;
+    background-color:greenyellow;
+}
+
+.spicy-noods {
+    background-color: #C13030;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    color: #f6f1b6;
+}
+
+.buldak {
+    background-color: black;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    color: #C13030;
+}
+
+.buldak h3 {
+    margin: 20px;
+}
+
+.buldak .tier {
+    background-color: #e9541f;
+    color: black    ;
+}
+
+.ramyun {
+    background-color: #C15030;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+}
+
+.ramyun h3 {
+    margin: 20px;
+}
+
+.ramyun .tier {
+    background-color: black;
+    color: #e9541f    ;
+}
+
+.sushi {
+    background-color: #84bf93;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    color: #ddecf1;
+}
+
+.sushi p {
+    font-size: 1.5rem;
+    margin: 10px;
+    padding: 10px;
+}
+
+.sushi-box {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    color: #c1d653;
+    background-color: #fee08e;
+}
+
+.bento {
+    background-color: #84bf93;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    color: #ddecf1;
+}
+
+.bento p {
+    font-size: 1.5rem;
+    margin: 10px;
+    padding: 10px;
+}
+
+.bento-box {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    color: #c1d653;
+    background-color: #fee08e;
+}
